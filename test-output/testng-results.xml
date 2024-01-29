@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-29T21:49:48 IST" name="Default suite" finished-at="2024-01-29T21:50:50 IST" duration-ms="62235">
+    <groups>
+    </groups>
+    <test started-at="2024-01-29T21:49:48 IST" name="Default test" finished-at="2024-01-29T21:50:50 IST" duration-ms="62235">
+      <class name="appiumlearning.Appium_05_WifiSetting">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:appiumlearning.Appium_05_WifiSetting@65c7a252]" started-at="2024-01-29T21:49:48 IST" name="ConfigureAppium" finished-at="2024-01-29T21:50:26 IST" duration-ms="38058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="TestConfigureAppium()[pri:0, instance:appiumlearning.Appium_05_WifiSetting@65c7a252]" started-at="2024-01-29T21:50:26 IST" name="TestConfigureAppium" finished-at="2024-01-29T21:50:45 IST" duration-ms="18970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestConfigureAppium -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:appiumlearning.Appium_05_WifiSetting@65c7a252]" started-at="2024-01-29T21:50:45 IST" name="tearDown" finished-at="2024-01-29T21:50:50 IST" duration-ms="5040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- appiumlearning.Appium_05_WifiSetting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
